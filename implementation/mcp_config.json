@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "command": "c:/Users/Kat/Documents/AICB_lab/Day26-Track3-MCP-tool-integration/.venv/Scripts/python.exe",
+      "args": ["c:/Users/Kat/Documents/AICB_lab/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py"],
+      "cwd": "c:/Users/Kat/Documents/AICB_lab/Day26-Track3-MCP-tool-integration/implementation",
+      "timeout": 10000
+    }
+  }
+}
